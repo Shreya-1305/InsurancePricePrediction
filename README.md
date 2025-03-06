@@ -39,5 +39,6 @@ The dataset consists of:
 
 ## 💻 How to Run
 1. Clone the repository:
+```bash
 git clone https://github.com/yourusername/insurance-price-prediction.git
 cd insurance-price-prediction
